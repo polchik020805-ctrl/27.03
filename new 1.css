@@ -249,7 +249,7 @@ div#bg-1-5{
 	left:-200px;
 
 }  
-bebe {
+.bebe {
 
   animation: bebe 5s infinite;
 
@@ -269,7 +269,7 @@ bebe {
   }
 
 }
-mumu {
+.mumu {
 
   animation: bebe 5s infinite;
 
@@ -289,7 +289,7 @@ mumu {
   }
 
 }
-lala {
+.lala {
 
   animation: bebe 5s infinite;
 
